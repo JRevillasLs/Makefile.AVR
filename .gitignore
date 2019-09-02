@@ -1,0 +1,8 @@
+*.bak
+*.o
+objs/*
+nppBackup/*
+tmp/*
+libs/*
+.git/*
+.git

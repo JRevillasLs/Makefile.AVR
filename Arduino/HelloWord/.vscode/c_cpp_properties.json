@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "WaspMote",
+            "includePath": [
+                "${workspaceFolder}\\\\**",
+                "${workspaceFolder}\\\\..\\\\",
+                "${workspaceFolder}\\\\..\\\\waspmote\\\\api",
+                "${workspaceFolder}\\\\..\\\\waspmote\\\\api\\\\*",
+                "${workspaceFolder}\\\\..\\\\waspmote\\\\api\\\\eeprom_utilities",
+                "${workspaceFolder}\\\\..\\\\waspmote\\\\api\\\\sd_utilities",
+                "${workspaceFolder}\\\\..\\\\waspmote\\\\api\\\\twi",
+                "${workspaceFolder}\\\\..\\\\waspmote\\\\libs\\\\BME280",
+                "${workspaceFolder}\\\\..\\\\Ordesa",
+                "${workspaceFolder}\\\\..\\\\libraries",
+                "${workspaceFolder}\\\\..\\\\libraries\\\\include",
+                "${workspaceFolder}\\\\..\\\\libraries\\\\IPE-api",
+                "${workspaceFolder}\\\\..\\\\libraries\\\\IPE-libs",
+                "${workspaceFolder}\\\\..\\\\libraries\\\\IPE-utils",
+                "${workspaceFolder}\\\\..\\\\libraries\\\\IPE-wasp",
+                "Z:/Program Files/WaspMote/hardware/tools/avr/avr/include/**",
+                "Z:/Program Files/WaspMote/hardware/tools/avr/avr/include/avr"
+            ],
+            "defines": [
+                "DEBUG"
+            ],
+            "compilerPath": "Z:/PROGRA~1/WaspMote/hardware/tools/avr/bin/avr-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
